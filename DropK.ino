@@ -51,8 +51,8 @@ String idvariable2 = "57963f1676254222d255c918";
 String token = "m5WnWGTBovaCyGCza5O9Fd9fYQViKq";
 
 // También tendremos que poner los datos de nuestra red Wi-Fi
-const char* ssid = "Punto acceso";
-const char* password = "436a6a2a734166663146396642";
+const char* ssid = "NombreSSID";    //Sustituir por el nombre de la red
+const char* password = "PASSWORD";  //Sustituir por el password de la red
 
 //////////////////////////////////////////////////////////////////////////////////
 // Function Prototypes
