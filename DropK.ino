@@ -43,12 +43,12 @@ char results[4];
 // guardaremos los datos. Para ello,
 // necesitaremos sus "ID" que nos da el propio Ubidots
 //De las siguientes ID, activaremos las que procedan dependiendo del sensor que estemos programando
-String idvariable1 = "57963fb37625422a29d02d00"; 
-String idvariable2 = "57963f1676254222d255c918";
+String idvariable1 = "Variable 1 ID"; 
+String idvariable2 = "Variable 2 ID";
 
 // Además, necesitaremos el API token, que es el que se usa para impedir que otros usuarios
 // de Ubidots publiquen sus datos en nuestras variables. Es decir, es el identificativo de nuestra cuenta
-String token = "m5WnWGTBovaCyGCza5O9Fd9fYQViKq";
+String token = "Token del device";
 
 // También tendremos que poner los datos de nuestra red Wi-Fi
 const char* ssid = "NombreSSID";    //Sustituir por el nombre de la red
